@@ -4,6 +4,7 @@ def sayHello():
     print('You are awesome')
     print('DSE 9 Rocks')
 
+
 def findSum():
     num1 = int(input('Input a number:'))
     num2 = int(input('Input another number:'))

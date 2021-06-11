@@ -1,3 +1,4 @@
+
 def findSum(num1,num2): #num1 and num2 are called parameters
     sum = num1+num2
     print('Sum = ', sum)
